@@ -1,5 +1,4 @@
 import sys
-import logger
 import logging
 
 
